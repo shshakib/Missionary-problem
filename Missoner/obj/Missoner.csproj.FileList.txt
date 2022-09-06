@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Missoner.Form1.resources
+obj\Debug\Missoner.Properties.Resources.resources
+obj\Debug\Missoner.csproj.GenerateResource.Cache
+bin\Debug\Missoner.exe
+bin\Debug\Missoner.pdb
+obj\Debug\Missoner.exe
+obj\Debug\Missoner.pdb
